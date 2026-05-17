@@ -1,4 +1,10 @@
-Dear tEAM
-
-
-ITS MY 2ND EDIT AND IT IS VERY AMAZING 
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Meri Website</title>
+</head>
+<body>
+  <h1>Hello Bhai 😎</h1>
+  <p>Ye meri choti si HTML website hai.</p>
+</body>
+</html>
